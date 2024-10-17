@@ -1,8 +1,3 @@
-Usted
-en espanol
-Copilot
-¡Claro! Aquí tienes un README atractivo para tu proyecto de .NET MAUI sobre pedidos y carta electrónica en español:
-
 📲 Sistema de Carta Electrónica y Pedidos
 ¡Bienvenido al proyecto del Sistema de Carta Electrónica y Pedidos! Esta aplicación está diseñada para revolucionar cómo los restaurantes gestionan los pedidos y muestran su carta a través de una interfaz intuitiva y fácil de usar. Construido utilizando el poderoso framework .NET MAUI, este sistema asegura compatibilidad multiplataforma y un rendimiento excepcional.
 
