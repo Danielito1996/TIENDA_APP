@@ -12,36 +12,10 @@ Multiplataforma: Funciona perfectamente en iOS, Android y Windows.
 
 🛠️ Primeros Pasos
 Prerrequisitos
-.NET 6 SDK: Asegúrate de tener instalado el SDK de .NET 6. Puedes descargarlo aquí.
+.NET 8 SDK: Asegúrate de tener instalado el SDK de .NET 6. Puedes descargarlo aquí.
 
 .NET MAUI: Instala .NET MAUI siguiendo las instrucciones aquí.
 
-Instalación
-Clonar el repositorio:
-
-sh
-
-Copiar
-git clone https://github.com/tuusuario/sistema-carta-pedidos.git
-cd sistema-carta-pedidos
-Restaurar dependencias:
-
-sh
-
-Copiar
-dotnet restore
-Construir el proyecto:
-
-sh
-
-Copiar
-dotnet build
-Ejecutar la aplicación:
-
-sh
-
-Copiar
-dotnet run
 📚 Uso
 Navegar por la Carta: Comienza navegando por las diferentes categorías de la carta.
 
